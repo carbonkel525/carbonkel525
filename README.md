@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carbonkel525
 - 👀 I’m interested in coding front-end and back-end.
-- 🌱 I’m currently learning Supabase.
-- 💞️ I’m looking to collaborate on SaaS project.
+- 🌱 I’m currently working on TheBotBay.
+- 💞️ I’m looking to collaborate on all kind of SaaS projects.
 - 📫 Reach me by sending a discord dm (carbonkel525) or hit me up via mail (losanton280@gmail.com).
 
 <!---
