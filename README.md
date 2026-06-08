@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anton Los @carbonkel525
+- 👋 Hi, I’m Anton Los or @carbonkel525
 - 👀 I’m interested in coding full-stack applications.
 - 🌱 I’m currently working on Hiyre, an AI-native ATS for recruitment agencies.
 - 📫 Reach me by sending an email to (losanton280@gmail.com).
