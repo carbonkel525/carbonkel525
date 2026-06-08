@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @carbonkel525 or Anton
-- 👀 I’m interested in coding front-end and back-end.
-- 🌱 I’m currently working on VintiePlus newest Solution (https://vintieplus.com).
-- 💞️ I’m looking to collaborate on all kind of SaaS projects.
-- 📫 Reach me by sending a discord dm (carbonkel525) or hit me up via mail (losanton280@gmail.com).
+- 👋 Hi, I’m Anton Los @carbonkel525
+- 👀 I’m interested in coding full-stack applications.
+- 🌱 I’m currently working on Hiyre, an AI-native ATS for recruitment agencies.
+- 📫 Reach me by sending an email to (losanton280@gmail.com).
 - Watch my portfolio on https://antonlos.com
 <!---
 carbonkel525/carbonkel525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
